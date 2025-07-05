@@ -2,7 +2,7 @@
 
 Welcome to Falling Sand, a lightweight and oddly satisfying digital zen garden built from the ground up. This project is a minimalist sand physics simulation that runs entirely in your browser with no external libraries or frameworks. Click your mouse to create falling sand particles and watch as they stack and form unique landscapes.
 
-![A GIF showing sand particles falling and stacking in the grid.](./sand-demo.gif)
+![A GIF showing sand particles falling and stacking in the grid.](./sand.gif)
 
 ---
 
