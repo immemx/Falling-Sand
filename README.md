@@ -36,13 +36,9 @@ By focusing on these foundational skills, this project proves the ability to bui
 The beauty of a zero-dependency project is its simplicity.
 
 1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    ```
+
 2.  **Navigate to the directory:**
-    ```bash
-    cd your-repo-name
-    ```
+
 3.  **Open the `index.html` file** in your favorite web browser.
 
 That's it! No `npm install`, build steps, or local servers are required.
